@@ -9,6 +9,9 @@ function App() {
         <p>
 Hello again, Max!
         </p>
+        <p>
+Changes from Feature branch
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
